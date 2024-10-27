@@ -1,6 +1,4 @@
-git add app.py
-git commit -m "Updated app with MSE and language translation"
-git push origin main
+
 import streamlit as st
 import yfinance as yf
 import pandas as pd
